@@ -16,7 +16,7 @@ npm i wawebjs
 
 ## Usage
 
-Here's an [example](https://github.com/kazedevid/wawebjsbot).
+Comming here
 
 ## Disclaimer
 
