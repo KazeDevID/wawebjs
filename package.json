@@ -28,7 +28,7 @@
   "scripts": {
     "prepublishOnly": "npm run build",
     "build": "npm run build:cjs && npm run build:esm",
-    "build:cjs": "tsc -p tsconfig.json",
+
     "build:esm": "tsc -p tsconfig-esm.json"
   },
   "devDependencies": {
