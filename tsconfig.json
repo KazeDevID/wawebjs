@@ -20,8 +20,8 @@
   },
   "exclude": [
     "node_modules",
-    "dist",
-    "example",
-    "examples"
+    "dist"
+
+
   ]
 }
